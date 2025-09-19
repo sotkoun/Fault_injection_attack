@@ -1,1 +1,3 @@
 # Fault_injection_attack
+
+The project explores Voltage Glitching on an Arduino, where an ATmega328PB controls a MOSFET to create short power interruptions aimed at causing errors in a 0–100 counter program. It includes theory on Fault Injection, instructions for the hardware and wiring, and steps for setup, verification, and monitoring of glitch pulses. Initial experiments showed the Arduino’s resilience, but the work opens the way for further tests with different voltages, glitch durations, other MCUs, and specialized tools like ChipWhisperer, with all hardware and code organized in folders for easy execution and analysis.
